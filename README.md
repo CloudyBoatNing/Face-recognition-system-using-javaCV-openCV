@@ -2,7 +2,7 @@
 This is a check-in system based on face recognition.   
 See the demo video here:  https://youtu.be/FRlId8R9s80
 We used:   
---JavaCV & openCV for the face recognition.--   
+～～JavaCV & openCV for the face recognition.～～   
 Multi threads to make the recognition real-time.   
 javaFX for the interface.   
 JDBC and MySQL for the data storage extraction.   
